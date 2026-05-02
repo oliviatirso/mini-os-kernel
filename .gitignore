@@ -1,1 +1,3 @@
 mini_kernel
+*.o
+*.exe
